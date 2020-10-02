@@ -1,8 +1,8 @@
 import tweepy
 
 # Authenticate to Twitter
-Api_key = "VYjNpc4so7mwUCNzhfh5f5309"
-Secret_key = "zhz5eUGsOfbRpOaJiSCufLo9yTJoXla7ZYxcaA3lan2VzvrolU"
+Api_key = "VYjNpc4so7mwUCNzhfh5f53097231"
+Secret_key = "zhz5eUGsOfbRpOaJiSCufLo9yTJoXla7ZYxcaA3lan2VzvrolU1234"
 
 auth = tweepy.OAuthHandler(Api_key, Secret_key)
 
